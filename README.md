@@ -8,3 +8,4 @@
     # To create my consumer, I referenced this week's v2_listen_for_message file and adapted it to work with my file and queue. I also used the RabbitMq tutorial. 
     # I will admit that even though I was able to create my output text file each time I would run the consumer code the text file would end up blank. I ended up having to copy and paste my recieved messages into the text file. I also tried writing to csv file but it too was blank. I hope to find what is wrong in my code. 
 
+![bonus rabbit](https://user-images.githubusercontent.com/111606778/215893834-8500449b-2367-4b24-9e6c-ce1a1b2d30b3.png)
